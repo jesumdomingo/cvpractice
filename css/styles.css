@@ -97,13 +97,13 @@ hr {
   margin: 80px 0;
 }
 
-/* BUTTON*/
+/****************BUTTON*****************/
 
 .btn {
   background: #11cdd4;
   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   border-radius: 8px;
-  font-family: 'Lobster Two';
+  font-family: 'Comfortaa';
   color: #ffffff;
   font-size: 20px;
   font-weight: lighter;
@@ -117,7 +117,7 @@ hr {
   text-decoration: none;
 }
 
-/*BUTTON*/
+/****************BUTTON*****************/
 
 .contact-me {
   margin-top: 50px;
