@@ -14,7 +14,6 @@ h1 {
 }
 
 h1:hover {
-  color: #646464;
   transition: ease, .3s;
   text-shadow: 0 0 10px #66BFBF;
 }
