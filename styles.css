@@ -63,3 +63,9 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
+
+@media (max-width:900px) {
+  .container {
+    width:100%;
+  }
+}
